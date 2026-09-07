@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 ##############################################################################
 #
+# (c) 2010-2025 The Trustees of Columbia University in the City of New York.
 # (c) 2026 Billinge Group Members and The DiffPy Team.
 # All rights reserved.
 #

@@ -301,7 +301,7 @@ class Calculate(object):
     def genCorrectionMatrix(self):
         """Generate correction matrix.
 
-        multiple the 2D raw counts array by this correction matrix to
+        Multiply the 2D raw counts array by this correction matrix to
         get corrected raw counts. It will calculate solid angle
         correction or polarization correction.
 
