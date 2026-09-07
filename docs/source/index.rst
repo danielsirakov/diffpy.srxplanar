@@ -4,25 +4,24 @@
 
 .. |title| replace:: diffpy.srxplanar documentation
 
+``diffpy.srxplanar`` - 2D diffraction image integration using non splitting pixel algorithm
+
 | Software version |release|
 | Last updated |today|.
 
-diffpy.srxplanar package provides 2D diffraction image integration using
-non splitting pixel algorithm. And it can estimate and propagate statistic
-uncertainty of raw counts and integrated intensity. If you are using this
-software. If you use this program to do productive scientific research that
-leads to publication, we kindly ask that you acknowledge use of the program
-by citing the following paper in your publication:
+===============
+Getting started
+===============
 
-    Xiaohao Yang, Pavol Juhas, Simon J. L. Billinge, On the estimation of
-    statistical uncertainties on powder diffraction and small angle
-    scattering data from 2-D x-ray detectors, arXiv:1309.3614
+Welcome to the ``diffpy.srxplanar`` documentation!
+
+To get started, please visit the :ref:`Getting started <getting-started>` page.
 
 =======
 Authors
 =======
 
-``diffpy.srxplanar`` is developed by Xiaohao Yang and Billinge Group members. The maintainer for this project is Simon Billinge. For a detailed list of contributors see
+``diffpy.srxplanar`` is developed by Billinge Group Members. This project is maintained by Simon Billinge. For a detailed list of contributors see
 https://github.com/diffpy/diffpy.srxplanar/graphs/contributors.
 
 ============
@@ -44,9 +43,9 @@ Table of contents
 .. toctree::
    :maxdepth: 2
 
+   getting-started
    Package API <api/diffpy.srxplanar>
-   Modules <api/modules>
-   Release notes <release>
+   release
    license
 
 =======
