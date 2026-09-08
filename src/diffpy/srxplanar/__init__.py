@@ -5,7 +5,7 @@
 # (c) 2026 Billinge Group Members and The DiffPy Team.
 # All rights reserved.
 #
-# File coded by: Billinge Group Members.
+# File coded by: Xiaohao Yang and Billinge Group members.
 #
 # See GitHub contributions for a more detailed list of contributors.
 # https://github.com/diffpy/diffpy.srxplanar/graphs/contributors

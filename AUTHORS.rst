@@ -1,7 +1,7 @@
 Authors
 =======
 
-Billinge Group Members
+Xiaohao Yang and Billinge Group members
 
 Contributors
 ------------

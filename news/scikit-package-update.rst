@@ -4,7 +4,7 @@
 
 **Changed:**
 
-* Updated project scaffolding to latest scikit-package standards.
+* <news item>
 
 **Deprecated:**
 
@@ -16,7 +16,7 @@
 
 **Fixed:**
 
-* <news item>
+* Updated project scaffolding to latest scikit-package standards.
 
 **Security:**
 
